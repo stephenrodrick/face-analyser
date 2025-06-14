@@ -5,7 +5,7 @@
 ![CUDA 11](https://img.shields.io/badge/cuda-11-green.svg?style=plastic)
 ![License CC BY 4.0](https://img.shields.io/badge/license-MIT-green.svg?style=plastic)
 
-Welcome to the **Facial Expression Recognition (FER) for Mental Health Detection** repository. This project leverages cutting-edge AI models, including **Swin Transformer**, to analyze facial expressions for detecting mental health conditions. For detailed insights, refer to the [research paper published in Engineering, Technology & Applied Science Research](https://doi.org/10.48084/etasr.9139), indexed in Scopus Q2.
+Welcome to the **Facial Expression Recognition (FER) for Mental Health Detection** repository. This project leverages cutting-edge AI models, including **Swin Transformer**, to analyze facial expressions for detecting mental health conditions. 
 
 ---
 
@@ -264,35 +264,7 @@ You are now ready to explore Facial Expression Recognition for Mental Health Det
 - **Healthcare**: Real-time emotion detection for early mental health interventions.
 - **Research**: Advance the field of **artificial intelligence in mental health detection**.
 
----
 
-## 📄 Citation
-
-This research has been published in **Engineering, Technology & Applied Science Research**, indexed in **Scopus Q2**. Below is the certification evidence:
-
-<img src="./images/scopus-fer.jpg" alt="Scopus Q2 Certification" width="200">
-
-### Citation Formats
-
-**APA:**
-
-> Mujiyanto, M., Setyanto, A., Kusrini, K., & Utami, E. (2024). Swin Transformer with Enhanced Dropout and Layer-wise Unfreezing for Facial Expression Recognition in Mental Health Detection. Engineering, Technology & Applied Science Research, 14(6), 19016–19023. https://doi.org/10.48084/etasr.9139
-
-**MLA:**
-
-> Mujiyanto, M., et al. "Facial Expression Recognition (FER) for Mental Health Detection." Engineering, Technology & Applied Science Research, vol. 14, no. 6, 2024, pp. 19016-19023.
-
-**Vancouver:**
-
-> Mujiyanto M, et al. Facial Expression Recognition (FER) for Mental Health Detection. Engineering, Technology & Applied Science Research. 2024;14(6):19016-23.
-
----
-
-## 📧 Contact
-
-For questions or support, please contact:
-
-- **Email**: [mujiyanto@amikom.ac.id](mailto:mujiyanto@amikom.ac.id)
 
 ### Special Credit
 
